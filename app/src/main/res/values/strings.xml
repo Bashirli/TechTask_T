@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TechTask_T</string>
+    <string name="people">People</string>
+    <string name="filter">Filter</string>
+    <string name="cancel">Cancel</string>
+    <string name="apply">Apply</string>
+    <string name="nothing_to_show">Nothing to show</string>
+    <string name="error_select">You should select at least 1 filter.</string>
+</resources>
